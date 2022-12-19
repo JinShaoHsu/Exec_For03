@@ -10,7 +10,7 @@ namespace Exec_For03
 	{
 		static void Main(string[] args)
 		{
-			for (int i = 5; i >= 1; i--)
+			for (int i = 666; i >= 1;)
 			{
 				string row1 = new string('*', i);
 				string row2 = new string(' ', i);
