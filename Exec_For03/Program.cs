@@ -15,6 +15,8 @@ namespace Exec_For03
 				string row1 = new string('*', i);
 				string row2 = new string(' ', i);
 				Console.WriteLine(row1 +row2);
+
+				global::System.Console.WriteLine(row1 + row2);
 			}
 		}
 	}
